@@ -19,9 +19,6 @@ app.use(cors())
 
 app.use('/folders', FoldersRouter)
 app.use('/notes', NotesRouter)
-// app.get('/', (req, res) => {
-//     res.send('Hello, world!')
-// })
 
 app.use(function errorHandler(error, req, res, next) {
     let response

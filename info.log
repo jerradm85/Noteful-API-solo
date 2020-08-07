@@ -65,3 +65,14 @@
 {"message":"folder 5 folder created with id:18.","level":"info"}
 {"message":"cats note created inside folder 18.","level":"info"}
 {"message":"Folder with id:18 deleted.","level":"info"}
+{"message":"Note with id:1 deleted.","level":"info"}
+{"message":"Note with id:4 deleted.","level":"info"}
+{"message":"Note with id:6 deleted.","level":"info"}
+{"message":"Note with id:33 deleted.","level":"info"}
+{"message":"Note with id:35 deleted.","level":"info"}
+{"message":"Folder with id:11 deleted.","level":"info"}
+{"message":"Folder with id:10 deleted.","level":"info"}
+{"message":"Folder with id:1 deleted.","level":"info"}
+{"message":"Greatest folder created with id:19.","level":"info"}
+{"message":"Even Greater note created inside folder 19.","level":"info"}
+{"message":"Folder with id:19 deleted.","level":"info"}
